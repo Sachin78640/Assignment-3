@@ -1,0 +1,2 @@
+o define a media query in CSS, you use the @media rule followed by the conditions that determine when the enclosed styles should be applied. Media queries allow you to create responsive designs by adapting styles and layout rules based on the characteristics of the device or screen where the web page is viewed.
+Eg - @media screen and (min-width: 480px)
