@@ -1,0 +1,9 @@
+The purpose of the orientation media feature is to target and apply specific styles based on the orientation of the device's screen. It allows you to customize the presentation of your web content based on whether the device is in a landscape or portrait orientation.
+
+The orientation media feature can take two possible values:
+
+portrait: This value is used when the device's screen is taller than it is wide. It typically represents a vertical orientation.
+
+landscape: This value is used when the device's screen is wider than it is tall. It typically represents a horizontal orientation.
+
+By utilizing the orientation media feature in media queries, you can adjust the layout, positioning, and styling of elements to better suit the specific orientation of the device. For example, you might want to rearrange content or change the dimensions of certain elements to provide an optimal viewing experience in either landscape or portrait mode.
